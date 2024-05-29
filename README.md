@@ -20,7 +20,8 @@ talent.baidu.com/baidu/talnet
 
 使用示例：
 
-假设目标是建设银行，那么我可能会想到:ccb（建行的简称）,jianshe,jsyh等等，或者是目标的子域名为abc，那么我会将abc也加入进去。
+假设目标是建设银行，那么我可能会想到:**ccb**（建行的简称）,**jianshe**,**jsyh**等等，
+或者是目标的子域名为abc，那么我会将**abc**也加入进去。
 ![image](https://github.com/WhatHowie/-/assets/125801879/63d08040-3c45-45e2-870b-e86bc7e6045e)
 
 
@@ -29,7 +30,7 @@ talent.baidu.com/baidu/talnet
 ![image](https://github.com/WhatHowie/-/assets/125801879/d4ffaac8-50c7-41c1-8276-2ecb54b1f89b)
 
 
-目前内置的小字典不多，如果想添加觉得常出现的，可以自己添加
+目前内置的小字典不多，如果想添加觉得经常出现的，可以自己添加
 ![image](https://github.com/WhatHowie/-/assets/125801879/07f11ba2-32fa-4a17-b3fc-d3942acf543a)
 
 
