@@ -26,11 +26,16 @@ talent.baidu.com/baidu/talnet
 
 
 得到结果：
+
+
 ![image](https://github.com/WhatHowie/-/assets/125801879/9cf3c961-29cd-49db-89ca-cf4bdf2270f5)
+
+
 ![image](https://github.com/WhatHowie/-/assets/125801879/d4ffaac8-50c7-41c1-8276-2ecb54b1f89b)
 
 
 目前内置的小字典不多，如果想添加觉得经常出现的，可以自己添加
+
 ![image](https://github.com/WhatHowie/-/assets/125801879/07f11ba2-32fa-4a17-b3fc-d3942acf543a)
 
 
